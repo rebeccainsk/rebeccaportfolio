@@ -1,25 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import {BrowserRouter, Route} from "react-router-dom";
+import HomePage from "./component/main/HomePage";
+import YongeCareer from "./component/project/YongeCareer";
+import LMS from "./component/project/LMS";
+import Student from "./component/project/Student";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div className="App">
+            <BrowserRouter>
+                <div>
+                    <Route path='/' exact component={HomePage}></Route>
+                    <Route path='/y-career' exact component={YongeCareer}></Route>
+                    <Route path='/lms' exact component={LMS}></Route>
+                    <Route path='/student' exact component={Student}></Route>
+                </div>
+            </BrowserRouter>
+        </div>
+    );
 }
 
 export default App;
