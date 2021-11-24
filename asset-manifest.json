@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rebeccaportfolio/static/css/main.20434c15.chunk.css",
+    "main.js": "/rebeccaportfolio/static/js/main.bee8fa8f.chunk.js",
+    "main.js.map": "/rebeccaportfolio/static/js/main.bee8fa8f.chunk.js.map",
+    "runtime-main.js": "/rebeccaportfolio/static/js/runtime-main.89148dea.js",
+    "runtime-main.js.map": "/rebeccaportfolio/static/js/runtime-main.89148dea.js.map",
+    "static/js/2.8b183922.chunk.js": "/rebeccaportfolio/static/js/2.8b183922.chunk.js",
+    "static/js/2.8b183922.chunk.js.map": "/rebeccaportfolio/static/js/2.8b183922.chunk.js.map",
+    "static/js/3.4ace4544.chunk.js": "/rebeccaportfolio/static/js/3.4ace4544.chunk.js",
+    "static/js/3.4ace4544.chunk.js.map": "/rebeccaportfolio/static/js/3.4ace4544.chunk.js.map",
+    "index.html": "/rebeccaportfolio/index.html",
+    "static/css/main.20434c15.chunk.css.map": "/rebeccaportfolio/static/css/main.20434c15.chunk.css.map",
+    "static/js/2.8b183922.chunk.js.LICENSE.txt": "/rebeccaportfolio/static/js/2.8b183922.chunk.js.LICENSE.txt",
+    "static/media/lms.8f27f336.png": "/rebeccaportfolio/static/media/lms.8f27f336.png",
+    "static/media/student.b6225b16.png": "/rebeccaportfolio/static/media/student.b6225b16.png",
+    "static/media/yongecareer-home.6ecd6312.png": "/rebeccaportfolio/static/media/yongecareer-home.6ecd6312.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89148dea.js",
+    "static/js/2.8b183922.chunk.js",
+    "static/css/main.20434c15.chunk.css",
+    "static/js/main.bee8fa8f.chunk.js"
+  ]
+}
