@@ -9,7 +9,7 @@ function App() {
         <div className="App">
             <BrowserRouter>
                 <div>
-                    <Route path='/' exact component={HomePage}></Route>
+                    <Route path='/https://github.com/rebeccainsk/rebeccaportfolio' exact component={HomePage}></Route>
                     <Route path='/y-career' exact component={YongeCareer}></Route>
                     <Route path='/lms' exact component={LMS}></Route>
                     <Route path='/student' exact component={Student}></Route>
