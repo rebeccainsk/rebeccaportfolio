@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/rebeccaportfolio/static/css/main.20434c15.chunk.css",
-    "main.js": "/rebeccaportfolio/static/js/main.bee8fa8f.chunk.js",
-    "main.js.map": "/rebeccaportfolio/static/js/main.bee8fa8f.chunk.js.map",
-    "runtime-main.js": "/rebeccaportfolio/static/js/runtime-main.89148dea.js",
-    "runtime-main.js.map": "/rebeccaportfolio/static/js/runtime-main.89148dea.js.map",
-    "static/js/2.8b183922.chunk.js": "/rebeccaportfolio/static/js/2.8b183922.chunk.js",
-    "static/js/2.8b183922.chunk.js.map": "/rebeccaportfolio/static/js/2.8b183922.chunk.js.map",
-    "static/js/3.4ace4544.chunk.js": "/rebeccaportfolio/static/js/3.4ace4544.chunk.js",
-    "static/js/3.4ace4544.chunk.js.map": "/rebeccaportfolio/static/js/3.4ace4544.chunk.js.map",
-    "index.html": "/rebeccaportfolio/index.html",
-    "static/css/main.20434c15.chunk.css.map": "/rebeccaportfolio/static/css/main.20434c15.chunk.css.map",
-    "static/js/2.8b183922.chunk.js.LICENSE.txt": "/rebeccaportfolio/static/js/2.8b183922.chunk.js.LICENSE.txt",
-    "static/media/lms.8f27f336.png": "/rebeccaportfolio/static/media/lms.8f27f336.png",
-    "static/media/student.b6225b16.png": "/rebeccaportfolio/static/media/student.b6225b16.png",
-    "static/media/yongecareer-home.6ecd6312.png": "/rebeccaportfolio/static/media/yongecareer-home.6ecd6312.png"
+    "main.css": "/rebeccainsk/rebeccaportfolio.git/static/css/main.8bbe3ded.chunk.css",
+    "main.js": "/rebeccainsk/rebeccaportfolio.git/static/js/main.bee8fa8f.chunk.js",
+    "main.js.map": "/rebeccainsk/rebeccaportfolio.git/static/js/main.bee8fa8f.chunk.js.map",
+    "runtime-main.js": "/rebeccainsk/rebeccaportfolio.git/static/js/runtime-main.715fb737.js",
+    "runtime-main.js.map": "/rebeccainsk/rebeccaportfolio.git/static/js/runtime-main.715fb737.js.map",
+    "static/js/2.8b183922.chunk.js": "/rebeccainsk/rebeccaportfolio.git/static/js/2.8b183922.chunk.js",
+    "static/js/2.8b183922.chunk.js.map": "/rebeccainsk/rebeccaportfolio.git/static/js/2.8b183922.chunk.js.map",
+    "static/js/3.4ace4544.chunk.js": "/rebeccainsk/rebeccaportfolio.git/static/js/3.4ace4544.chunk.js",
+    "static/js/3.4ace4544.chunk.js.map": "/rebeccainsk/rebeccaportfolio.git/static/js/3.4ace4544.chunk.js.map",
+    "index.html": "/rebeccainsk/rebeccaportfolio.git/index.html",
+    "static/css/main.8bbe3ded.chunk.css.map": "/rebeccainsk/rebeccaportfolio.git/static/css/main.8bbe3ded.chunk.css.map",
+    "static/js/2.8b183922.chunk.js.LICENSE.txt": "/rebeccainsk/rebeccaportfolio.git/static/js/2.8b183922.chunk.js.LICENSE.txt",
+    "static/media/lms.8f27f336.png": "/rebeccainsk/rebeccaportfolio.git/static/media/lms.8f27f336.png",
+    "static/media/student.b6225b16.png": "/rebeccainsk/rebeccaportfolio.git/static/media/student.b6225b16.png",
+    "static/media/yongecareer-home.6ecd6312.png": "/rebeccainsk/rebeccaportfolio.git/static/media/yongecareer-home.6ecd6312.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.89148dea.js",
+    "static/js/runtime-main.715fb737.js",
     "static/js/2.8b183922.chunk.js",
-    "static/css/main.20434c15.chunk.css",
+    "static/css/main.8bbe3ded.chunk.css",
     "static/js/main.bee8fa8f.chunk.js"
   ]
 }
